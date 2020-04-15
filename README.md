@@ -1,4 +1,4 @@
-# Characterization of the bandwith of PPG signal and its pulse peak
+# Characterizing the bandwiths of PPG signal and its pulse peak
 
 This script implements the methods presented in the article: 
 **"Optimal filter characterization for photoplethysmography-based pulse rate and pulse power spectrum estimation"**

@@ -1,10 +1,10 @@
-# Characterizing the bandwiths of PPG signal and its pulse peak
+# Characterizing the bandwidths of: the PPG signal and the PPG pulse peak
 
 This script implements the methods presented in the article: 
 **"Optimal filter characterization for photoplethysmography-based pulse rate and pulse power spectrum estimation"**
-by Raymundo Cassani, Abhishek Tiwari, and Tiago H. Falk
+by Raymundo Cassani, Abhishek Tiwari, and Tiago H. Falk; Accepted in 2020 42st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Montreal, Canada. 
 
-In recent years, PPG-based heart rate measurement has gained significant attention due to its popularity in wearable devices. Studies comparing the dynamics of ECG- and PPG-based heart rate measures have found small differences between these two modalities; differences related to the physiological processes behind each technique. We analyzed the spectral coherence and the SNR between isolated PPG pulses and the raw PPG signal to: 
+In recent years, PPG-based heart rate measurement has gained significant attention due to its popularity in wearable devices. Studies comparing the dynamics of ECG- and PPG-based heart rate measures have found small differences between these two modalities; these differences are related to the physiological processes behind each technique. We analyzed the spectral coherence and the SNR between isolated PPG pulses and the raw PPG signal to: 
 
 1. Determine the optimal filter to enhance pulse detection from raw PPG for improved heart rate estimation, and
 2. Characterize the spectral content of the PPG pulse. 
